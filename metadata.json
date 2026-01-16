@@ -1,0 +1,7 @@
+{
+  "name": "UFRGS OCR - Gemini",
+  "description": "Aplicativo de reconhecimento óptico de caracteres utilizando Gemini AI com identidade visual da UFRGS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
